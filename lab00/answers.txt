@@ -1,0 +1,10 @@
+1. ls command
+2. mv command
+3. chmod command
+4. pwd command
+5. ping command
+6. find command
+7. ps command
+8. kill command
+9. diff command
+
